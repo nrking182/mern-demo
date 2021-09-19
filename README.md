@@ -1,3 +1,13 @@
+#npm install in root directory
+#npm install nodemon -g
+
+nodemon server -- starts express server
+npm start -- starts react app
+
+#will need to create a .env file in the backend folder and add .env to .gitignore
+#ATLAS_URI= {{the uri...ask for it}}
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
