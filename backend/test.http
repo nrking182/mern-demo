@@ -1,0 +1,5 @@
+POST http://localhost:5000/users/add HTTP/1.1
+
+{
+    "username": "nick"
+}
